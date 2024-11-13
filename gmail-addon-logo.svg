@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#f2f2f2" />
+  
+  <!-- Envelope shape -->
+  <path d="M50 70 L100 105 L150 70 L150 130 L50 130 Z" fill="#4285f4" />
+  <path d="M50 70 L100 105 L150 70 L150 65 L50 65 Z" fill="#34a853" />
+  
+  <!-- Plus symbol -->
+  <rect x="145" y="85" width="30" height="10" fill="#ea4335" rx="5" />
+  <rect x="155" y="75" width="10" height="30" fill="#ea4335" rx="5" />
+  
+  <!-- Circular border -->
+  <circle cx="100" cy="100" r="90" fill="none" stroke="#dbdbdb" stroke-width="2" />
+</svg>
